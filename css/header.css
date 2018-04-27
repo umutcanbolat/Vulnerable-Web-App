@@ -1,0 +1,18 @@
+.nav {
+  background-color:rgba(255,255,255);
+}
+.nav a {
+  color:#5a5a5a;
+  font-size:11px;
+  font-weight:bold;
+  padding:14px 10px;
+  text-transform:uppercase;
+}
+
+.nav a:hover {
+    color: #1e5eff;
+}
+
+.nav li {
+  display:inline;
+}
